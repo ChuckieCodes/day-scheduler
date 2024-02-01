@@ -3,6 +3,9 @@
 
 [![badge](https://img.shields.io/badge/license-Apache-brightgreen)](https://opensource.org/licenses/Apache)<br />
 
+![alt deployed app screenshot](https://chuckiecodes.github.io/day-scheduler/assets/images/SS-2024-02-01-AT-10.08.44AM.png)
+<br />
+
 ## Description
 A simple calendar web app for scheduling your work day. Built using HTML, CSS &  jQuery.
 
